@@ -41,7 +41,7 @@ set(CMKR_TARGET app)
 set(app_SOURCES "")
 
 list(APPEND app_SOURCES
-	"src/main.cpp"
+	"src/Server.cpp"
 )
 
 list(APPEND app_SOURCES

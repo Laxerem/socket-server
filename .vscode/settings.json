@@ -3,6 +3,8 @@
     "files.associations": {
         "connection": "cpp",
         "pqxx": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
     }
 }

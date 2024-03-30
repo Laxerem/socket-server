@@ -16,5 +16,5 @@ fmt = { version = "*" }
 # Название собранного исполняемого файла
 [target.app]
 type = "executable"
-sources = ["src/main.cpp"]
+sources = ["src/Server.cpp"]
 link-libraries = ["fmt::fmt"] # назвние зависимостей и их namespace
